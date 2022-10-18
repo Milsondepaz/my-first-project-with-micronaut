@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: myFirstProjectWithMicronaut
+netty:
+  default:
+    allocator:
+      max-order: 3
